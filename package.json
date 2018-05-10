@@ -9,7 +9,10 @@
   "keywords": [
     "javascript",
     "string",
-    "string to javascript"
+    "string to javascript",
+    "object",
+    "string manipulation",
+    "eval"
   ],
   "author": "Diondre Edwards <diondredev@gmail.com>",
   "license": "MIT",

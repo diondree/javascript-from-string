@@ -2,6 +2,15 @@
 
 <p align="center">A simple package to convert valid Javascript found in a string to Javascript</p>
 
+<p align="center">
+  <a href="https://www.npmjs.com/package/react-native-material-tabs">
+    <img alt="npm version" src="https://img.shields.io/npm/v/javascript-from-string.svg?style=flat-square">
+  </a>
+  <a href="https://www.npmjs.com/package/react-native-material-tabs">
+    <img alt="npm downloads" src="https://img.shields.io/npm/dm/javascript-from-string.svg?style=flat-square">
+  </a>
+</p>
+
 ## Getting Started
 
 #### Step 1
