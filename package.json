@@ -1,0 +1,24 @@
+{
+  "name": "javascript-from-string",
+  "version": "1.0.0",
+  "description": "A javascript package to extract valid javascript from a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "javascript",
+    "string",
+    "string to javascript"
+  ],
+  "author": "Diondre Edwards <diondredev@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.4.3"
+  },
+  "homepage": "https://github.com/diondree/javascript-from-string#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diondree/javascript-from-string.git"
+  }
+}
