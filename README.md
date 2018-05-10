@@ -39,6 +39,9 @@ jsConvert.convert(jsString)
     .then(jsObject => {
         console.log(jsObject);
     })
+    .catch(err => {
+        console.log(err);
+    })
 ```
 
 Or if you prefer to use Async Await
@@ -50,5 +53,5 @@ async function getObject(jsString) {
     return jsObject;
 }
 
-console.log(getObject(jsString));
+getObject(jsString).then(obj => console.log(obj));
 ```
